@@ -24,3 +24,13 @@ The meetup planning is discussed as GH issue.
 
 - [RFC 7541 (HPACK)](https://tools.ietf.org/html/rfc7541) by [Nemo](https://github.com/captn3m0) [[Slides]]() [[Video]](https://t.co/ntKkyKgOq7)
 - [RFC 1178 (Choosing a name for your computer)](https://tools.ietf.org/html/rfc1178) by [Kracekumar](https://github.com/kracekumar) [[Slides]](http://slides.com/kracekumarramaraju/naming-a-computer) [[Video]](https://t.co/zcbQb5Nico)
+
+# [Meetup 3](https://github.com/rfcswelove/rfcs_we_love/issues/6)
+
+- Date: 16/04/2017
+- Time: 1:00 PM to 3:00 PM
+- Venue: [Razorpay](https://where.rzp.io)
+
+## Talks
+
+- [RFC 7665 - Slides](https://github.com/dhruvdhody-huawei/ietf/blob/master/RFC%207665.pdf) and [Video](https://twitter.com/rfcs_we_love/status/853530315737841664)
