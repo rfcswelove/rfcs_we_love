@@ -33,4 +33,4 @@ The meetup planning is discussed as GH issue.
 
 ## Talks
 
-- [RFC 7665 - Slides](https://github.com/dhruvdhody-huawei/ietf/blob/master/RFC%207665.pdf) and [Video](https://twitter.com/rfcs_we_love/status/853530315737841664)
+- [RFC 7665 - Slides](https://github.com/dhruvdhody-huawei/ietf/blob/master/RFC%207665.pdf) and [Video](https://twitter.com/rfcs_we_love/status/853530315737841664) by [Dhruv](dhruvdhody-huawei)
