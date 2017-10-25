@@ -49,3 +49,14 @@ The meetup planning is discussed as GH issue.
 - [RFC6202: Best Practices for the Use of Long Polling and Streaming in Bidirectional HTTP](https://gitpitch.com/VipulMathur/rfc-meetup-sep2017?grs=gitlab) by [Vipul Mathur](https://twitter.com/VipulMathur)
 - Updates from IETF 99 by Vinayak Hegde
 - [Discussion on Connections](https://cdn.rawgit.com/dhruvdhody-huawei/iiesoc/172581b7/Connections.pdf) - Pre-IETF Event by [Dhruv Dhody](https://github.com/dhruvdhody-huawei)
+
+# [Meetup 5](https://github.com/rfcswelove/rfcs_we_love/issues/8)
+
+- Date: 14/10/2017
+- Time: 1:30 PM to 3:30 PM
+- Venue: [Synup](http://bit.ly/old-synup-office)
+
+## Talks
+
+- [RFC2104: HMAC: Keyed-Hashing for Message Authentication](http://slides.com/captn3m0/deck-9#/) by [Nemo](https://github.com/captn3m0)
+- [RFC7252:  The Constrained Application Protocol (CoAP)](https://speakerd.s3.amazonaws.com/presentations/652da89359ea40bab194a5607f4bed2b/CoAP.pdf) by [Anmol Sarma](https://www.anmolsarma.in/)
