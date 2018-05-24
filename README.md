@@ -60,3 +60,19 @@ The meetup planning is discussed as GH issue.
 
 - [RFC2104: HMAC: Keyed-Hashing for Message Authentication](http://slides.com/captn3m0/deck-9#/) by [Nemo](https://github.com/captn3m0)
 - [RFC7252:  The Constrained Application Protocol (CoAP)](https://speakerd.s3.amazonaws.com/presentations/652da89359ea40bab194a5607f4bed2b/CoAP.pdf) by [Anmol Sarma](https://www.anmolsarma.in/)
+
+# [Meetup 6](https://github.com/rfcswelove/rfcs_we_love/issues/12)
+
+- Date: 19/05/2018
+- Time: 10:00 AM to 1:30 PM
+- Venue: [Zoomcar](https://goo.gl/maps/J3SbjeUaeRr)
+
+## Talks 
+
+- Welcome
+- State of compression in IoT, Related RFCs: 6282, 6775, 8138 by [Rahul](https://www.linkedin.com/in/rahul-jadhav-a0485310);
+[Slides](https://drive.google.com/open?id=1GYaC3R629ISdT1XcoTNgTG4_z_qHjGVB); [Video Part 1](https://youtu.be/yHa4ie1wqTY); [Video part 2](https://youtu.be/8g_am4DIhpE) 
+- Internet of Things Mesh Networks, Related RFCs: 6550, 3561, I-D: draft-ietf-roll-efficient-npdao by [RabiNarayan Sahoo](https://www.linkedin.com/in/rabi-narayan-sahoo-64142178/); [Slides](https://drive.google.com/open?id=1DULJRwZhLd10JqQo7MLi9ppgoig-H5Yq); [Video](https://youtu.be/jkKO3NGXpCQ) 
+- IoT protocols in moving Vehicles by [Vinayak](https://www.linkedin.com/in/vinayakh/); [Slides](https://drive.google.com/open?id=1VpT9-t2-oeIa4KdpJQ3aMrQYsGYNN6jA); [Video](https://youtu.be/bv6Gl2oJ96U) 
+- Update from IETF 101 by [Dhruv](https://www.dhruvdhody.com/)
+
