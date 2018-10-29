@@ -76,3 +76,22 @@ The meetup planning is discussed as GH issue.
 - IoT protocols in moving Vehicles by [Vinayak](https://www.linkedin.com/in/vinayakh/); [Slides](https://drive.google.com/open?id=1VpT9-t2-oeIa4KdpJQ3aMrQYsGYNN6jA); [Video](https://youtu.be/bv6Gl2oJ96U) 
 - Update from IETF 101 by [Dhruv](https://www.dhruvdhody.com/)
 
+# [Meetup 7](https://github.com/rfcswelove/rfcs_we_love/issues/15)
+
+- Date: 22/09/2018
+- Time: 9:30 AM to 4:30 PM
+- Venue: [MSRIT](http://www.msrit.edu/)
+
+## Talks 
+
+- Welcome
+- IoT and IETF: WGs  6lo, lwig, roll, core, lpwan, 6tisch & ace by [Rahul](https://www.linkedin.com/in/rahul-jadhav-a0485310)
+- DNS and TLS in IoT Environments by [Balaji Rajendran](https://www.linkedin.com/in/balajirajendran/) 
+- IoT security: challenges and solutions, the state of the art for the relevant IETF draft by Dr. A. Paventhan
+- Challenges in building IoT systems for cars and cycles by [Vinayak](https://www.linkedin.com/in/vinayakh/);
+- F-Interop: Remote Interoperability, Conformance and Performance Tests for the Internet of Things by [Adrash B U](https://www.linkedin.com/in/adarsh-b-u-70640792/?originalSubdomain=in)
+- Monitoring and application of In-situ OAM in resource constrained networks by [Swetha Bandari](https://www.linkedin.com/in/bhandari-shwetha-2830b45/?originalSubdomain=in) & Srijith
+- Connections 2018 [Dhruv](https://www.dhruvdhody.com/)
+
+[All Slides](https://drive.google.com/drive/u/1/folders/1J-M8B-keylkMYHt8oMvpvEvFODG_QQSL)
+[All Photos](https://photos.app.goo.gl/qZkZ1noQ1HYo7EqE9)
