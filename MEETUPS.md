@@ -63,6 +63,7 @@ The meetup planning is discussed as GH issue.
 
 # [Meetup 6](https://github.com/rfcswelove/rfcs_we_love/issues/12)
 
+- IoT Edition
 - Date: 19/05/2018
 - Time: 10:00 AM to 1:30 PM
 - Venue: [Zoomcar](https://goo.gl/maps/J3SbjeUaeRr)
@@ -78,6 +79,7 @@ The meetup planning is discussed as GH issue.
 
 # [Meetup 7](https://github.com/rfcswelove/rfcs_we_love/issues/15)
 
+- IoT/Security Edition
 - Date: 22/09/2018
 - Time: 9:30 AM to 4:30 PM
 - Venue: [MSRIT](http://www.msrit.edu/)
@@ -95,3 +97,20 @@ The meetup planning is discussed as GH issue.
 
 [All Slides](https://drive.google.com/drive/u/1/folders/1J-M8B-keylkMYHt8oMvpvEvFODG_QQSL)
 [All Photos](https://photos.app.goo.gl/qZkZ1noQ1HYo7EqE9)
+
+# [Meetup 8](https://github.com/rfcswelove/rfcs_we_love/issues/16)
+
+- SP & DC Edition
+- Date: 19/01/2019
+- Time: 10:00 AM to 1:00 PM
+- Venue: [CIS](https://cis-india.org/)
+
+## Talks 
+
+- Welcome and Introduction
+- BGP routing in DC by [Kannan](https://www.linkedin.com/in/kannan-jayaraman-1472552/) 
+- Multicast via BIER (Bit Index Explicit Replication) by [Senthil](https://www.linkedin.com/in/senthil-dhanaraj-00149914/)
+- Traffic engineering in WAN Networks by [Shraddha](https://www.linkedin.com/in/shraddha-hegde-9b75772/)
+
+[All Slides](https://docs.google.com/spreadsheets/d/1Fgc2H1kgsCBTyMYW3xBxUKT3QfpbvnG_lHHoT0FJvCc/edit?usp=sharing)
+[All Photos](https://photos.app.goo.gl/dqwgpJRx93VFCeqv6)
