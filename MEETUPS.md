@@ -112,5 +112,5 @@ The meetup planning is discussed as GH issue.
 - Multicast via BIER (Bit Index Explicit Replication) by [Senthil](https://www.linkedin.com/in/senthil-dhanaraj-00149914/)
 - Traffic engineering in WAN Networks by [Shraddha](https://www.linkedin.com/in/shraddha-hegde-9b75772/)
 
-[All Slides](https://docs.google.com/spreadsheets/d/1Fgc2H1kgsCBTyMYW3xBxUKT3QfpbvnG_lHHoT0FJvCc/edit?usp=sharing)
+[All Slides](https://drive.google.com/drive/folders/1-IS0iKkVVuWrkFgiGt-veNIVXM4XSDt1?usp=sharing)
 [All Photos](https://photos.app.goo.gl/dqwgpJRx93VFCeqv6)
