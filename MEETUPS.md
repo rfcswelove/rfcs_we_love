@@ -127,7 +127,7 @@ The meetup planning is discussed as GH issue.
 - Welcome and Introduction by [Dhruv](https://www.dhruvdhody.com/publications)
 - State of Multi-path Transports by [Rahul](https://www.linkedin.com/in/rahul-jadhav-a0485310)
 - SNI encryption in TLS by [Gurshabad](https://gurshabad.github.io/)
-- DNS over HTTPS ("DoH", RFC 8484) by [Aniketh](https://in.linkedin.com/in/aniketh-gireesh-55483a136)
+- DNS over HTTPS ("DoH", RFC 8484) by [Aniketh](https://in.linkedin.com/in/aniketh-gireesh-55483a136) [Slide](https://slides.com/anikethgireesh/deck-10/#/)
 - High performance networking with HTTP/2 and OkHttp by [Siddharth](https://in.linkedin.com/in/simathur)
 
 [All Slides](https://drive.google.com/open?id=1Eysohp5QqmAKMBg96EL-7rFbHoNRxXB_)
