@@ -132,3 +132,29 @@ The meetup planning is discussed as GH issue.
 
 [All Slides](https://drive.google.com/open?id=1Eysohp5QqmAKMBg96EL-7rFbHoNRxXB_)
 [All Photos](https://drive.google.com/drive/folders/1Eysohp5QqmAKMBg96EL-7rFbHoNRxXB_?usp=sharing)
+
+# [Meetup 10]
+
+- RFCsWeLove in collabration with [IICB](http://iicb.org/) in Kolkata
+- First RFCsWeLove outside of Bangalore
+- Date: 16/03/2019
+- Time: 10 Am to 5:30 PM
+
+## Talks
+
+- Welcome Remarks by Anupam Agrawal, Chair – ISOC Kolkata
+- Indian IETF Capacity Building – Till Now & Plans Ahead, Anand Raje, Vice Chair ISOC Kolkata
+- Research in Kolkata and collaboration with IETF, Prof. Chandan Mazumdar, HOD, CS, Jadavpur University
+- How India Matters for IETF, Nalini Elkins, CEO, Inside Stack
+- Role of SDOs & Delivery of Digital Services Standards, Dr. Sundeep Oberoi, Chair – ISO/IEC JTC1 SC7 – Software & Systems Engineering
+- Internet Research Labs – Updates, Prof. Indrajit De MCKV & Students.
+- RFCs We Love - Introduction, Dhruv Dhody, Secretary, IIESoc
+- TLS 1.3 - Paradigm shift in encryption technology, Abhijit Singha, Principal QA Engineer, Keysight Technologies
+- Use Cases and Problems – IETF PCE WG, Dhruv Dhody, PCE WG Chair - IETF
+- Network Programming using SRv6, Debjyoti Laha, Director-Engineering, Keysight Technologies
+- Innovative models – Mapping with IETF, Vinayak Hegde, CTO Zoomcar
+- CoAP-No Response Option, Abhijan Bhattacharyya, Scientist – TCS Ltd.
+- Vote of Thanks, Sushanta Sinha, VP- ISOC Kolkata
+
+[All Slides](https://drive.google.com/file/d/1JjYHH_Nwdki1zd8sUbcp9i2JaxlC26Cx/view?usp=sharing)
+[All Photos](https://photos.app.goo.gl/DnxKJz9zXrsPmfah8)
