@@ -156,5 +156,5 @@ The meetup planning is discussed as GH issue.
 - CoAP-No Response Option, [Abhijan Bhattacharyya](https://www.linkedin.com/in/abhijan-bhattacharyya-59b1a019/), Scientist – TCS Ltd.
 - Vote of Thanks, [Sushanta Sinha](https://www.linkedin.com/in/sushantasinha/), VP- ISOC Kolkata
 
-[All Slides](https://drive.google.com/file/d/1JjYHH_Nwdki1zd8sUbcp9i2JaxlC26Cx/view?usp=sharing)
+[All Slides](https://drive.google.com/drive/folders/1eB-HIvYiouNP8HoNmK1uksZt0BZfcza4?usp=sharing)
 [All Photos](https://photos.app.goo.gl/DnxKJz9zXrsPmfah8)
