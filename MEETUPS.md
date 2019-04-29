@@ -158,3 +158,21 @@ The meetup planning is discussed as GH issue.
 
 [All Slides](https://drive.google.com/drive/folders/1eB-HIvYiouNP8HoNmK1uksZt0BZfcza4?usp=sharing)
 [All Photos](https://photos.app.goo.gl/DnxKJz9zXrsPmfah8)
+
+# [Meetup 11](https://github.com/rfcswelove/rfcs_we_love/issues/18)
+
+- Security Edition
+- Date: 27/04/2019
+- Time: 11:00 AM to 2:00 PM
+- Venue: [Blume Ventures](http://blume.vc/)
+
+## Talks
+
+- Introductions by [Dhruv Dhody](https://www.dhruvdhody.com/publications), Secretary, IIESoc
+- DOTS (DDoS open threat signaling) by [Tirumaleswar Reddy Konda](https://www.linkedin.com/in/tirumaleswar-reddy-2a915946/?originalSubdomain=in), Mcafee
+- What's new with Wi-Fi Security aka WPA3 by [Mohit Sethi](https://www.linkedin.com/in/sethism/), Ericsson, Finland (remote)
+- IKEv2 Optional SA&TS Payloads in Child Exchange [draft-kampati-ipsecme-ikev2-sa-ts-payloads-opt-00] by Sandeep Kampati, Huawei
+- Automated TLS using Letsencrypt on a Kubernetes Cluster by Ashwin Murali, Zoomcar
+
+[All Slides](https://drive.google.com/drive/folders/1qx6zindeg9xL3NxuOJRMisBTh98te4bY?usp=sharing)
+[All Photos](https://photos.app.goo.gl/YqVaweFdHn7edZjk7)
