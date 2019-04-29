@@ -171,7 +171,7 @@ The meetup planning is discussed as GH issue.
 - Introductions by [Dhruv Dhody](https://www.dhruvdhody.com/publications), Secretary, IIESoc
 - DOTS (DDoS open threat signaling) by [Tirumaleswar Reddy Konda](https://www.linkedin.com/in/tirumaleswar-reddy-2a915946/?originalSubdomain=in), Mcafee
 - What's new with Wi-Fi Security aka WPA3 by [Mohit Sethi](https://www.linkedin.com/in/sethism/), Ericsson, Finland (remote)
-- IKEv2 Optional SA&TS Payloads in Child Exchange [draft-kampati-ipsecme-ikev2-sa-ts-payloads-opt-00] by Sandeep Kampati, Huawei
+- IKEv2 Optional SA&TS Payloads in Child Exchange [draft](draft-kampati-ipsecme-ikev2-sa-ts-payloads-opt-00) by Sandeep Kampati, Huawei
 - Automated TLS using Letsencrypt on a Kubernetes Cluster by Ashwin Murali, Zoomcar
 
 [All Slides](https://drive.google.com/drive/folders/1qx6zindeg9xL3NxuOJRMisBTh98te4bY?usp=sharing)
