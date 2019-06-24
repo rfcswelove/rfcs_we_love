@@ -187,9 +187,6 @@ The meetup planning is discussed as GH issue.
 ## Talks
 
 - Introductions by [Dhruv Dhody](https://www.dhruvdhody.com/publications), Secretary, IIESoc
-	Senthil, Huawei	
-12:30 - 01:15			
-01:15 - 01:30	Closing Remarks	Dhruv / Nagasai
 - EVPN - Next generation VPN for Ethernet by [Senthil](https://www.linkedin.com/in/senthil-dhanaraj-00149914?originalSubdomain=in), Huawei
 - SRV6, SRV6 Plus, ISIS extensions for SRV6 Plus by Rajesh & Parag, Juniper
 - Why Intent-based networking will change the way we manage networks by [Daniel King](https://www.linkedin.com/in/danielking/?originalSubdomain=in), University of Lancaster, UK (remote)
