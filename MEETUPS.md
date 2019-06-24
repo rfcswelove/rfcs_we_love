@@ -176,3 +176,23 @@ The meetup planning is discussed as GH issue.
 
 [All Slides](https://drive.google.com/drive/folders/1qx6zindeg9xL3NxuOJRMisBTh98te4bY?usp=sharing)
 [All Photos](https://photos.app.goo.gl/YqVaweFdHn7edZjk7)
+
+# [Meetup 12](https://github.com/rfcswelove/rfcs_we_love/issues/19)
+
+- Routing Edition
+- Date: 22/05/2019
+- Time: 10:30 AM to 1:30 PM
+- Venue: [Zoomcar](http://zoomcar.com/)
+
+## Talks
+
+- Introductions by [Dhruv Dhody](https://www.dhruvdhody.com/publications), Secretary, IIESoc
+	Senthil, Huawei	
+12:30 - 01:15			
+01:15 - 01:30	Closing Remarks	Dhruv / Nagasai
+- EVPN - Next generation VPN for Ethernet by [Senthil](https://www.linkedin.com/in/senthil-dhanaraj-00149914?originalSubdomain=in), Huawei
+- SRV6, SRV6 Plus, ISIS extensions for SRV6 Plus by Rajesh & Parag, Juniper
+- Why Intent-based networking will change the way we manage networks by [Daniel King](https://www.linkedin.com/in/danielking/?originalSubdomain=in), University of Lancaster, UK (remote)
+
+[All Slides](https://drive.google.com/open?id=1KaiZQabxgexvR-J6DS_s3LBgZzWSUwwu)
+[All Photos](https://photos.app.goo.gl/dwXciXfz2bYupq2W7)
