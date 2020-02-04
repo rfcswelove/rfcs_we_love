@@ -202,10 +202,10 @@ The meetup planning is discussed as GH issue.
 
 ## Talks
 
-
 - Highlights of Connections 2019 and IETF 106 by [Dhruv Dhody](https://www.dhruvdhody.com/publications), Secretary, IIESoc
 - Micro-loop avoidance by Bharat R, Juniper
 - On state of ZTP (Zero Touch Provisioning) and enhancements it should address to accommodate Dual RE systems, and looking at RE as a FRU by Katta Sambasiva Rao, Juniper
 - Analytics model for Network Devices by Sri Ram Sankar & Harsha Lakshmikanth, Juniper
 - Ongoing SR work in IETF by Ketan Talaulikar, Cisco (Remote)
 
+[All Slides & Pics](https://drive.google.com/open?id=1AApRoh8RlLXZnkhzuSPJXtgsn8BTnKiH)
