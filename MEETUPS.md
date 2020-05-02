@@ -209,3 +209,19 @@ The meetup planning is discussed as GH issue.
 - Ongoing SR work in IETF by Ketan Talaulikar, Cisco (Remote)
 
 [All Slides & Pics](https://drive.google.com/open?id=1AApRoh8RlLXZnkhzuSPJXtgsn8BTnKiH)
+
+# Meetup 14
+
+- Date: 02/05/2020
+- Time: 10:00 AM to 1:00 PM
+- Venue: Virtual
+
+## Talks
+- Discussion on the virtual IETF 107 by [Dhruv Dhody](https://www.dhruvdhody.com/publications), Secretary, IIESoc
+- History of AQM technologies by [Fred Baker](https://en.wikipedia.org/wiki/Fred_Baker_(IETF_chair))
+- Minimizing suffering due to extra buffering: the PIE way by [Mohit P. Tahiliani](https://cse.nitk.ac.in/faculty/mohit-p-tahiliani)
+- Current state of DNS & Introduction to DoH by [Swapneel Patnekar](https://brainattic.in/) 
+- Web Payment APIs by [Nemo](https://captnemo.in/)
+- Feedback on organizing more virtual events
+
+[All Slides](https://drive.google.com/drive/folders/1h_HeA0i6vs_TFtpS6ogMjz0I-fG4VKYN?usp=sharing) [Video](https://youtu.be/nJ07FGmZ3ig)
